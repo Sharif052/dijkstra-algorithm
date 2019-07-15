@@ -1,4 +1,4 @@
-# dijkstra-algorithm
-dijkstra algorithm implimentation in a project.
+# Dijkstra-algorithm
+Dijkstra algorithm implimentation in a project.
 
 Dijkstra's algorithm is extremely important theoretically, practically, as well as educationally.Indeed, it is safe to say that the shortest path problem is one of the most important generic problem in such fields as OR/MS, CS and artificial intelligence (AI). “Blood bank accessing process with in short time” this is the name of our project work where we want to show how one can manage blood among nearest blood banks with in short time in case of emergency. Suppose there are 5 blood banks in different areas among them 3 are closest. Through our project those 3 blood banks will be shown as nearest blood banks and whether we will get the specific blood group or not. We will show how faster we can find the nearest blood banks along with the particularblood groups the one is looking for. Through shortest path algorithm especially Dijkstra Algorithm and many more functions we will try to develop a good project with efficientideas. We are mainly focusing on Dijkstra algorithm to find the shortest way of collecting blood through blood banks.We analyze the theoretical processing time, communication cost and communication time for these algorithms under certain assumptions
